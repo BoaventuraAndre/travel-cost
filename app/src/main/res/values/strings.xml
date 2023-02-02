@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TravelCost</string>
+    <string name="validation_field">Fill in all fields</string>
+</resources>
